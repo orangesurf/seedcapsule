@@ -1,5 +1,7 @@
-# OrangeSurf SeedSigner Case
+# OrangeSurf Seed Capsule
 Case for stamped seed disks by OrangeSurf (https://orange.surf)
+
+![cover](/images/sc-twist-cover.jpg)
 
 ## Donations 
 Donations are accepted in bitcoin: https://orange.surf/donate
